@@ -6,7 +6,7 @@
 YOLOv5 is a family of **object detection architectures** and models pretrained on the COCO dataset.
 
 ### <a href="https://github.com/Anant-mishra1729/Road-sign-detection/blob/main/YOLOv5_Road_sign_detection.ipynb">Jupyter notebook</a>
-#### Fails to load try using <a href="https://nbviewer.org/github/Anant-mishra1729/Road-sign-detection/blob/main/YOLOv5_Road_sign_detection.ipynb">Jupyter notebook</a>
+### Fails to load try using <a href="https://nbviewer.org/github/Anant-mishra1729/Road-sign-detection/blob/main/YOLOv5_Road_sign_detection.ipynb">Jupyter notebook</a>
 ## Getting Started
 
 ### Dependencies
