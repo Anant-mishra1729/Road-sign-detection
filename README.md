@@ -7,15 +7,14 @@ YOLOv5 is a family of **object detection architectures** and models pretrained o
 
 ## Getting Started
 
+* Open this link 
+<a href="https://github.com/Anant-mishra1729/Road-sign-detection/blob/main/YOLOv5_Road_sign_detection.ipynb">Road sign detection</a>
+* If it fails to load try this <a href="https://nbviewer.org/github/Anant-mishra1729/Road-sign-detection/blob/main/YOLOv5_Road_sign_detection.ipynb">nbviewer</a>
+
 ### Dependencies
 
 * YOLOv5
 * Annotated dataset of Road sign (I used Roboflow for dataset preparation).
-
-### Jupyter-Notebook
-* Open this link 
-<a href="https://github.com/Anant-mishra1729/Road-sign-detection/blob/main/YOLOv5_Road_sign_detection.ipynb">Road sign detection</a>
-* If it fails to load try this <a href="https://nbviewer.org/github/Anant-mishra1729/Road-sign-detection/blob/main/YOLOv5_Road_sign_detection.ipynb">nbviewer</a>
 
 
 ### Creating Dataset
