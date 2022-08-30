@@ -5,8 +5,8 @@
 ### [Yolov5](https://github.com/ultralytics/yolov5)
 YOLOv5 is a family of **object detection architectures** and models pretrained on the COCO dataset.
 
-### <a href="https://github.com/Anant-mishra1729/Road-sign-detection/blob/main/YOLOv5_Road_sign_detection.ipynb">Jupyter notebook</a>
-### Fails to load try using <a href="https://nbviewer.org/github/Anant-mishra1729/Road-sign-detection/blob/main/YOLOv5_Road_sign_detection.ipynb">Jupyter notebook</a>
+### <a href="https://github.com/Anant-mishra1729/Road-sign-detection/blob/main/Updated_YOLOv5_Road_sign_detection.ipynb">Jupyter notebook</a>
+### Fails to load try using <a href="https://nbviewer.org/github/Anant-mishra1729/Road-sign-detection/blob/main/Updated_YOLOv5_Road_sign_detection.ipynb">Jupyter notebook</a>
 ## Getting Started
 
 ### Dependencies
@@ -22,7 +22,6 @@ YOLOv5 is a family of **object detection architectures** and models pretrained o
 
 ### Model creation and testing
 
-> If you are using google-colab these steps are not required, use Road_sign_detection_YOLOv5.ipynb
 
 * Clone this repository
 ```
@@ -36,7 +35,8 @@ git clone https://github.com/ultralytics/yolov5
 cd yolov5
 git reset --hard 886f1c03d839575afecb059accf74296fad395b6b
 ``` 
-* Use Road_sign_detection_YOLOv5.ipynb for creating model and Road_sign_test.ipynb for testing purpose.
+* Use Updated_YOLOv5_Road_sign_detection.ipynb for creating model.
+* Store best.pt for future inference.
 </details>
 
 > In case of any issue or error go through [Yolov5](https://github.com/ultralytics/yolov5) documentation. 
