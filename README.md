@@ -22,19 +22,31 @@ YOLOv5 is a family of **object detection architectures** and models pretrained o
 
 ### Model creation and testing
 
+#### Quick testing
+* Download pretrained weights Pretrained_weights/best.pt
+* Clone YOLOv5 repository
+```
+git clone https://github.com/ultralytics/yolov5
+cd yolov5
+pip install -r requirements.txt
+python detect.py --weights best.pt --source image.png
+``` 
+
+#### Training
 
 * Clone this repository
 ```
 git clone https://github.com/Anant-mishra1729/Road-sign-detection.git
 cd Road-sign-detection
+python detect.py --weights best.pt --source image.png
 ```
 
 * Clone YOLOv5 repository
 ```
 git clone https://github.com/ultralytics/yolov5
 cd yolov5
-git reset --hard 886f1c03d839575afecb059accf74296fad395b6b
 ``` 
+
 * Use Updated_YOLOv5_Road_sign_detection.ipynb for creating model.
 * Store best.pt for future inference.
 </details>
