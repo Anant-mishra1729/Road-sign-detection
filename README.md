@@ -66,5 +66,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
+* [Yolov5](https://github.com/ultralytics/yolov5)
 * [Dataset](https://www.kaggle.com/datasets/andrewmvd/road-sign-detection)
 * [Roboflow](https://roboflow.com/)
